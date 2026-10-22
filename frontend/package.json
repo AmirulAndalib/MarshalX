@@ -41,7 +41,7 @@
     "gatsby-source-prismic": "^2.3.0-alpha.3",
     "gatsby-transformer-sharp": "^2.3.16",
     "gh-pages": "^2.2.0",
-    "jquery": "^3.4.1",
+    "jquery": "^4.0.0",
     "jquery-ui-bundle": "^1.12.1-migrate",
     "lodash": "^4.17.15",
     "prismic-dom": "^2.1.0",
